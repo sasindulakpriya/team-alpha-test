@@ -10,9 +10,6 @@ function App() {
     <>
       <NaviBar />
       <Hr />
-      <Inquriy />
-      <Bar />
-      <Room />
     </>
   );
 }
